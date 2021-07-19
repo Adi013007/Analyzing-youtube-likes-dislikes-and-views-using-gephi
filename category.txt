@@ -1,0 +1,63 @@
+def catmod(category):
+    if(category==1):
+        return "Film & Animation"
+    if(category==2):
+        return "Autos & Vehicles"
+    if(category==10):
+        return  "Music"
+    if(category==15):
+         return "Pets & Animals"
+    if(category==17):
+        return "Sports"
+    if(category==18):
+        return "Short Movies"
+    if(category==19):
+        return "Travel & Events"
+    if(category==20):
+        return "Gaming"
+    if(category==21):
+        return "Videoblogging"
+    if(category==22):
+        return "People & Blogs"
+    if(category==23):
+        return "Comedy"
+    if(category==24):
+        return "Entertainment"
+    if(category==25):
+        return "News & Politics"
+    if(category==26):
+        return "Howto & Style"
+    if(category==27):
+        return "Education"
+    if(category==28):
+        return "Science & Technology"
+    if(category==30):
+        return  "Movies"
+    if(category==31):
+        return "Anime/Animation"
+    if(category==32):
+        return "Action/Adventure"
+    if(category==33):
+        return "Classics"
+    if(category==34):
+        return "Comedy"
+    if(category==35):
+        return "Documentary"
+    if(category==36):
+        return "Drama"
+    if(category==37):
+        return "Family"
+    if(category==38):
+        return "Foreign"
+    if(category==39):
+        return "Horror"
+    if(category==40):
+        return "Sci-Fi/Fantasy"
+    if(category==41):
+        return "Thriller"
+    if(category==42):
+        return "Shorts"
+    if(category==43):
+        return "Shows"
+    if(category==44):
+        return "Trailers"   
